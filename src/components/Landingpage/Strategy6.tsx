@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Strategy6() {
   return (
-    <div className="px-20 py-10 ">
+    <div className="px-24 py-10 ">
       <p className="py-2">
         ๑. ภาครัฐที่ยึดประชาชนเป็นศูนย์กลาง ตอบสนองความต้องการ และ
         ให้บริการอย่างสะดวกรวดเร็ว โปร่งใส โดย (๑) การให้บริการสาธารณะของภาครัฐ

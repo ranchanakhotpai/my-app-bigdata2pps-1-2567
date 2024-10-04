@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Strategy5() {
   return (
-    <div className="px-20 py-10">
+    <div className="px-24 py-10">
       <p className="py-2">
         ๑. สร้างการเติบโตอย่างยั่งยืนบนสังคมเศรษฐกิจสีเขียว โดย (๑) เพิ่มมูลค่า
         ของเศรษฐกิจฐานชีวภาพให้สอดคล้องกับยุทธศาสตร์ด้านการสร้างความสามารถ

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Strategy1() {
   return (
-    <div className="px-20 py-10">
+    <div className="px-24 py-10">
         <p className="py-2">
         ๑. การปรับเปลี่ยนค่านิยมและวัฒนธรรม มุ่งเน้นให้สถาบันทางสังคมร่วม
 ปลูกฝังค่านิยมและวัฒนธรรมที่พึงประสงค์โดย (๑) การปลูกฝังค่านิยมและวัฒนธรรม
