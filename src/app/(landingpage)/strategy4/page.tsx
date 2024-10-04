@@ -1,10 +1,9 @@
 import React from 'react'
-import ProductList from "../components/ProductList"
-
+import Strategy4 from '@/components/Landingpage/Strategy4'
 export default function page() {
   return (
     <div>
-        <ProductList/>
+        <Strategy4 />
     </div>
   )
 }
